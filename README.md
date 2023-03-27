@@ -1,4 +1,4 @@
-# Construindo seu primeiro Portfólio Web!
+# Construindo seu Portfólio Web!
 
 Muitas das empresas mais modernas do mundo estão sempre em busca de pessoas desenvolvedoras, e uma das formas de você chamar a atenção delas é ter seu próprio Portfólio Web, onde você irá manter os projetos que desenvolverá!
 
